@@ -4,7 +4,7 @@ CS50P Problem Sets: Documenting my Python solutions & learning journey
 
 # CS50P Journey: Harvard's Introduction to Computer Science with Python
 
-## 🎯 About This Repository
+## About This Repository
 
 This repository documents my progress through Harvard's CS50P (Introduction to Computer Science with Python)—a rigorous, self-paced course that covers foundational computer science principles and Python programming.
 
@@ -12,7 +12,7 @@ I'm using this course to strengthen my programming fundamentals while maintainin
 
 ---
 
-## 📚 Course Overview
+## Course Overview
 
 **CS50P** covers:
 - Python fundamentals (variables, data types, control flow)
